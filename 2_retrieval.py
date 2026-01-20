@@ -37,7 +37,7 @@ docs = cli.find_docs(
     collection_name=coll_name,
     query_vectors=[query_emb],
     limit=5,
-    output_fields=["id", "text"],
+    return_fields=["id", "text"],
 )
 for doc in docs:
     print(doc)
