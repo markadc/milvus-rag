@@ -61,9 +61,9 @@ ollama pull bge-m3
 
 ```bash
 # .env
-API_KEY=your_openai_api_key
-BASE_URL=https://api.openai.com/v1  # 或其他兼容 API 地址
-MODEL=gpt-3.5-turbo  # 或其他模型名称
+API_KEY=your_openai_api_key             # 密钥
+BASE_URL=https://api.deepseek.com/v1    # 或其他兼容 API 地址
+MODEL=deepseek-chat                     # 或其他模型名称
 ```
 
 ## 📊 使用流程
