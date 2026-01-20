@@ -1,4 +1,4 @@
-# RAG-Milvus: 本地化检索增强生成系统
+# Milvus-RAG: 本地化检索增强生成系统
 
 基于 Milvus Lite + Ollama + OpenAI API 的本地化 RAG (Retrieval-Augmented Generation) 系统，使用现代化的 Python 包管理器 uv 进行依赖管理。
 
